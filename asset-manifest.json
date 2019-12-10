@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3dd28703.chunk.css",
-    "main.js": "/static/js/main.ea359d7c.chunk.js",
-    "main.js.map": "/static/js/main.ea359d7c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.170f8412.js",
-    "runtime-main.js.map": "/static/js/runtime-main.170f8412.js.map",
-    "static/js/2.e07eb861.chunk.js": "/static/js/2.e07eb861.chunk.js",
-    "static/js/2.e07eb861.chunk.js.map": "/static/js/2.e07eb861.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c1e0c327d5aab462b13988cdcccc97a7.js": "/precache-manifest.c1e0c327d5aab462b13988cdcccc97a7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3dd28703.chunk.css.map": "/static/css/main.3dd28703.chunk.css.map",
-    "static/js/2.e07eb861.chunk.js.LICENSE": "/static/js/2.e07eb861.chunk.js.LICENSE",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/chinonso25.github.io/static/css/main.3dd28703.chunk.css",
+    "main.js": "/chinonso25.github.io/static/js/main.1af0ecb4.chunk.js",
+    "main.js.map": "/chinonso25.github.io/static/js/main.1af0ecb4.chunk.js.map",
+    "runtime-main.js": "/chinonso25.github.io/static/js/runtime-main.62aa985a.js",
+    "runtime-main.js.map": "/chinonso25.github.io/static/js/runtime-main.62aa985a.js.map",
+    "static/js/2.656a0b5a.chunk.js": "/chinonso25.github.io/static/js/2.656a0b5a.chunk.js",
+    "static/js/2.656a0b5a.chunk.js.map": "/chinonso25.github.io/static/js/2.656a0b5a.chunk.js.map",
+    "index.html": "/chinonso25.github.io/index.html",
+    "precache-manifest.a4d614acd86cdde02d9dec11f344a5de.js": "/chinonso25.github.io/precache-manifest.a4d614acd86cdde02d9dec11f344a5de.js",
+    "service-worker.js": "/chinonso25.github.io/service-worker.js",
+    "static/css/main.3dd28703.chunk.css.map": "/chinonso25.github.io/static/css/main.3dd28703.chunk.css.map",
+    "static/js/2.656a0b5a.chunk.js.LICENSE": "/chinonso25.github.io/static/js/2.656a0b5a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/chinonso25.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.170f8412.js",
-    "static/js/2.e07eb861.chunk.js",
+    "static/js/runtime-main.62aa985a.js",
+    "static/js/2.656a0b5a.chunk.js",
     "static/css/main.3dd28703.chunk.css",
-    "static/js/main.ea359d7c.chunk.js"
+    "static/js/main.1af0ecb4.chunk.js"
   ]
 }
